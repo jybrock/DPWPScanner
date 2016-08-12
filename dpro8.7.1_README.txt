@@ -1,0 +1,6 @@
+This is another Windows Phone (v8.1) APP demo that is basically a "boilerplate" for DataPro module integrations for mobile applications.
+It is not intended to provide a direction for future DataPro versioning by the project/repository naming convention.
+As far as functionality towards connectivity to your/any DataPro accounting/financial back-end system/project --it is totally up to you how to conduct that developpment.
+This Windows Phone APP is simply a starting point for the creative process needed to get off the ground and start using it as either a testing platform or as a demo machine.
+There is no future plans to continue to develop a Windows Phone APP from DataPro development at this time.
+In the future, if needed, there will be more focus on a multi-MOBILE-platform boilerplate example project on this GITHUB to show a portable example of a way to test and devlop mobile DataPro solutions using the existing RESTful API capability of the DPRO system features.
