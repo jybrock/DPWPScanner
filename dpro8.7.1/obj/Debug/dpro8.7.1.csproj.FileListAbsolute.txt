@@ -1,0 +1,30 @@
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\dpro8.7.1\dpro8.7.1\Bin\Debug\ApplicationIcon.png
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\dpro8.7.1\dpro8.7.1\Bin\Debug\Background.png
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\dpro8.7.1\dpro8.7.1\Bin\Debug\dpro8.7.1.dll
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\dpro8.7.1\dpro8.7.1\Bin\Debug\dpro8.7.1.pdb
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\dpro8.7.1\dpro8.7.1\Bin\Debug\AppManifest.xaml
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\dpro8.7.1\dpro8.7.1\Bin\Debug\dpro8._7._1.xap
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\dpro8.7.1\dpro8.7.1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\dpro8.7.1\dpro8.7.1\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\dpro8.7.1\dpro8.7.1\obj\Debug\dpro8.7.1.csprojResolveAssemblyReference.cache
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\dpro8.7.1\dpro8.7.1\obj\Debug\App.g.cs
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\dpro8.7.1\dpro8.7.1\obj\Debug\MainPage.g.cs
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\dpro8.7.1\dpro8.7.1\obj\Debug\dpro8.7.1.g.resources
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\dpro8.7.1\dpro8.7.1\obj\Debug\dpro8.7.1.dll
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\dpro8.7.1\dpro8.7.1\obj\Debug\dpro8.7.1.pdb
+C:\Users\Joey\Documents\Visual Studio 2012\Projects\dpro8.7.1\dpro8.7.1\obj\Debug\XapCacheFile.xml
+C:\Users\Joey\Google Drive\dev\Projects\dpro8.7.1\dpro8.7.1\Bin\Debug\ApplicationIcon.png
+C:\Users\Joey\Google Drive\dev\Projects\dpro8.7.1\dpro8.7.1\Bin\Debug\Background.png
+C:\Users\Joey\Google Drive\dev\Projects\dpro8.7.1\dpro8.7.1\Bin\Debug\dpro8.7.1.dll
+C:\Users\Joey\Google Drive\dev\Projects\dpro8.7.1\dpro8.7.1\Bin\Debug\dpro8.7.1.pdb
+C:\Users\Joey\Google Drive\dev\Projects\dpro8.7.1\dpro8.7.1\Bin\Debug\AppManifest.xaml
+C:\Users\Joey\Google Drive\dev\Projects\dpro8.7.1\dpro8.7.1\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Joey\Google Drive\dev\Projects\dpro8.7.1\dpro8.7.1\Bin\Debug\dpro8.7.1_Debug_AnyCPU.xap
+C:\Users\Joey\Google Drive\dev\Projects\dpro8.7.1\dpro8.7.1\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Joey\Google Drive\dev\Projects\dpro8.7.1\dpro8.7.1\obj\Debug\dpro8.7.1.csprojResolveAssemblyReference.cache
+C:\Users\Joey\Google Drive\dev\Projects\dpro8.7.1\dpro8.7.1\obj\Debug\App.g.cs
+C:\Users\Joey\Google Drive\dev\Projects\dpro8.7.1\dpro8.7.1\obj\Debug\MainPage.g.cs
+C:\Users\Joey\Google Drive\dev\Projects\dpro8.7.1\dpro8.7.1\obj\Debug\dpro8.7.1.g.resources
+C:\Users\Joey\Google Drive\dev\Projects\dpro8.7.1\dpro8.7.1\obj\Debug\dpro8.7.1.dll
+C:\Users\Joey\Google Drive\dev\Projects\dpro8.7.1\dpro8.7.1\obj\Debug\dpro8.7.1.pdb
+C:\Users\Joey\Google Drive\dev\Projects\dpro8.7.1\dpro8.7.1\obj\Debug\XapCacheFile.xml
